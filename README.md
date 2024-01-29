@@ -1,6 +1,6 @@
 # Fido2 Test
 
-<img src="fido2.jpeg" alt="Project Logo" width="300"/>
+<img src="fido2.jpeg" alt="Project Logo" width="400"/>
 
 
 ## Description
