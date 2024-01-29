@@ -1,6 +1,6 @@
 # Fido2 Test
 
-[![Project Logo](fido2.png)]
+[![Project Logo](fido2.jpeg)]
 
 
 ## Description
