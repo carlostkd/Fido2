@@ -17,7 +17,8 @@ Test your Fido2 before to sign to any website or if you dont use it for a long o
 
 1. Clone the repository: `git clone https://github.com/carlostkd/fido2.git`
 2. Navigate to the project directory: `cd fido2`
-3. You need to create your server side logic... 
+3. You need to create your server side logic...
+4. Host it somehere or with your apache/nginx server.
 
 ## Usage
 
