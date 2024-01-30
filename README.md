@@ -20,6 +20,10 @@ Test your Fido2 before to sign to any website or if you dont use it for a long o
 3. You need to create your server side logic...
 4. Host it somehere or with your apache/nginx server.
 
+## Screenshot
+
+![Screenshot 1](screen-fido.png)
+
 ## Usage
 
 Navigate to the webpage connect your Fido2 device to the computer and press Register/Authenticate 
