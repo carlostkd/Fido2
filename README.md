@@ -5,7 +5,7 @@
 
 ## Description
 
-Test your Fido2 before to sign to any website or if you dont use it for a long of time.
+Test your Fido2 before to sign to any website or if you dont use it for a long time.
 
 ## Features
 
