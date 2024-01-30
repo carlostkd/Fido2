@@ -26,3 +26,20 @@ button {
 #output {
     margin-top: 20px;
 }
+
+footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+
+.footer {
+    background: blue;
+    height: 20px;
+    margin: auto;
+    width: 400px;
+    text-align:center;
+    padding:10px;
+    color:#ffffff;
+}
+
