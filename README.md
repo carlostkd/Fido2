@@ -22,7 +22,7 @@ Test your Fido2 before to sign to any website or if you dont use it for a long o
 
 ## Screenshot
 
-![Screenshot 1](screen-fido.png)
+![Screenshot](Screen-fido.png)
 
 ## Usage
 
