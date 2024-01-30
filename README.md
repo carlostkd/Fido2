@@ -26,7 +26,8 @@ Test your Fido2 before to sign to any website or if you dont use it for a long t
 
 ## Usage
 
-Navigate to the webpage connect your Fido2 device to the computer and press Register/Authenticate 
+Navigate to the webpage connect your Fido2 device to the computer and press Register/Authenticate.
+Ignore and click Proceed on the warning popup (you always get this warning for any website when using the key for the first time).
 
 ## Demo Live
 
