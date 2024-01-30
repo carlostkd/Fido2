@@ -12,6 +12,7 @@ Test your Fido2 before to sign to any website or if you dont use it for a long t
 - Register test
 - Authenticate test
 - Works on mobile devices using OTG cable or any Fido2 with NFC
+- If you have Fingerprint enabled on you Mobile device you can use this toll to verify if your Fingerprint Credentials   are correct and working as well.
 
 
 ## Installation
