@@ -35,6 +35,6 @@ On mobile devices to verify your Fingerprint just press Register and follow the 
 
 ## Demo Live
 
-Try the [demo live](https://www.carlostkd.ch/fido/) to see how it works.
+Try the [demo live](https://external.ink?to=/https://www.carlostkd.ch/fido/) to see how it works.
 
 
